@@ -1,0 +1,15 @@
+# Node / Front-end
+Front-end/node_modules/
+Front-end/dist/
+Front-end/package-lock.json
+
+# Python / Back-end
+Back-end/__pycache__/
+Back-end/.venv/
+Back-end/venv/
+Back-end/*.pyc
+Back-end/database.db
+
+# Geral
+.DS_Store
+Thumbs.db
