@@ -2,6 +2,8 @@
 
 Projeto de chat em tempo real com frontend em React + Vite e backend em Flask + SQLite.
 
+Prints do projeto: https://drive.google.com/drive/folders/1iAwHyMjSkY95Ln24XsA_R1mS3WD5MGKx
+
 ## Visão geral
 
 Este projeto permite enviar e visualizar mensagens em tempo real, com:
